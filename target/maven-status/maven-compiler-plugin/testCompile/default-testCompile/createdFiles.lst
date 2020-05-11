@@ -1,0 +1,4 @@
+com\seleniumeasy\tests\LoginTest.class
+com\seleniumeasy\tests\PropertyRun.class
+com\seleniumeasy\tests\TestBase.class
+com\seleniumeasy\tests\CodeTestPage.class

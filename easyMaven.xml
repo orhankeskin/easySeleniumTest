@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite  name="Default suite">
+  <test name="Default test">
+    <classes>
+      <class name="com.seleniumeasy.tests.LoginTest">
+      <methods>
+      
+      <include name="SimpleFormDemo"/>
+      <include name="checkbox"/>
+      <include name="radiobuttondemo"/>
+      
+      </methods>
+      </class> 
+    </classes>
+  </test> 
+</suite> 
